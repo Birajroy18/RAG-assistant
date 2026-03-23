@@ -1,3 +1,6 @@
+LIVE LINK: https://rag-assistant-j4bwmtgxuottghxnheayqv.streamlit.app/
+
+
 ###  PROJECT TESTING   ####
 
 
