@@ -1,0 +1,8 @@
+streamlit
+numpy
+requests
+pdfplumber
+sentence-transformers
+faiss-cpu
+python-docx
+pywin32; platform_system == "Windows"
